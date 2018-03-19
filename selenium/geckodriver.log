@@ -1,0 +1,221 @@
+1493127954239	geckodriver	INFO	Listening on 127.0.0.1:54597
+1493127954742	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.IMETybZk8Yl8
+1493127954750	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1493127954851	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54601
+1493127957235	Marionette	INFO	Listening on port 54601
+1493127959195	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493127968233	Marionette	INFO	New connections will no longer be accepted
+[Child 8104] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 11204] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+s/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+ne 345
+[NPAPI 3772] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+ild][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0048,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x860007,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x860007,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x860007,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x860007,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x860007,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x860007,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x860007,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x860007,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x860007,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x860007,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x860007,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x860007,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0048,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600AE,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+[NPAPI 860] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1496568805048	geckodriver	INFO	Listening on 127.0.0.1:59382
+1496569186442	geckodriver	INFO	Listening on 127.0.0.1:59706
+1496569235866	geckodriver	INFO	Listening on 127.0.0.1:59738

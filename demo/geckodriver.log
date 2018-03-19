@@ -1,0 +1,29 @@
+1496568797393	geckodriver	INFO	Listening on 127.0.0.1:59376
+1496569176780	geckodriver	INFO	Listening on 127.0.0.1:59702
+1496569516645	geckodriver	INFO	Listening on 127.0.0.1:59785
+1496569657228	geckodriver	INFO	Listening on 127.0.0.1:59815
+1496569657831	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.39cWU4H1F6UG
+1496569657831	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496569658305	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59820
+1496569660307	Marionette	INFO	Listening on port 59820
+1496569679168	geckodriver	INFO	Listening on 127.0.0.1:59852
+1496569679722	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.X84LTeHWabKf
+1496569679732	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496569679782	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59856
+1496569681947	Marionette	INFO	Listening on port 59856
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1496569798781	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/environment.js, line 15: Proxy.create and Proxy.createFunction are deprecated, use new Proxy instead
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1496573198972	geckodriver	INFO	Listening on 127.0.0.1:60382
+1496573199500	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.1HjFRNa8EGRG
+1496573199509	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496573199619	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60386
+1496573201711	Marionette	INFO	Listening on port 60386
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/environment.js, line 15: Proxy.create and Proxy.createFunction are deprecated, use new Proxy instead
+console.warn: Asynchronous operation was aborted as selection changed.
+1496573269955	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
